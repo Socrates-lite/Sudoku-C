@@ -1,4 +1,3 @@
 # Sudoku-C
 
-Customizable sudoku with personalized difficulty.
-Back-end
+Sudoku Validator based on user input and test cases
